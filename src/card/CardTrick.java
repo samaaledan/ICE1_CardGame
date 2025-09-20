@@ -41,6 +41,6 @@ public class CardTrick {
             System.out.println("Sorry, your lucky card (" + luckyCard + ") is NOT in the magic hand.");
         }
 
-        // System.out.println("ICE1 -- Sama Aledan");
+         System.out.println("ICE1 -- Sama Aledan");
     }
 }
